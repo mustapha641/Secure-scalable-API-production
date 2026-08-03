@@ -1,0 +1,23 @@
+{
+  "name": "secure-scalable-api-production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustapha641/Secure-scalable-API-production.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mustapha641/Secure-scalable-API-production/issues"
+  },
+  "homepage": "https://github.com/mustapha641/Secure-scalable-API-production#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
